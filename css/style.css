@@ -4,7 +4,9 @@ body{
 }
 h1{
     font-size: 40px;
+    
 }
+
 
 .header{
     
@@ -23,17 +25,24 @@ h1{
     padding-top: 150px;
       
 }
-.first-container h1,p{
-    color: red;
+#color-white{
+    color:white;
+    text-align: center;
+}
+
+
+.first-container p{
+    color: #ffff;
     text-align: center;
 
 }
-.button-link{
+.button-link {
     text-decoration: none;
     color: #ffff;
     background: #FF5959;
     padding:5px 10px;
     margin-left: 280px;
+    border-radius: 5px;
     
 }
 .donate-today{
@@ -66,4 +75,48 @@ h1{
     text-align: center;
     padding-bottom: 5px;
     border-bottom: 1px solid black;
+}
+.donation-plan{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.plan p{
+    text-align: center;
+}
+.donation-plan h1{
+    text-align: center;
+}
+.plan{
+    display: flex;
+}
+.list{
+    
+    
+    margin-left: 10px;
+    padding: 10px;
+}
+.list p{
+    text-align: left;
+}
+.list img{
+    height: 50px;
+    width: 50px;
+    width: 50%;
+    padding: 10px;
+    margin-left: 5px;
+}
+#A{
+    background:rgba(79, 157, 166, 0.1);
+}
+#B{
+    background:rgba(255, 89, 89, 0.1);
+}
+#C{
+    background: #FFF4D6;
+}
+footer{
+    text-align: center;
+    color: yellow;
+    background: black;
 }
