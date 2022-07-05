@@ -105,6 +105,7 @@ h1{
     width: 50%;
     padding: 10px;
     margin-left: 5px;
+    left:-5px;
 }
 #A{
     background:rgba(79, 157, 166, 0.1);
@@ -114,6 +115,33 @@ h1{
 }
 #C{
     background: #FFF4D6;
+}
+.donation-01{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 15px;
+   
+}
+.half{
+    
+    padding: 3px;
+}
+.half a{
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+    background-color: tomato;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+#size{
+    font-size: 20px;
+}
+.half img{
+    width: 340px;
+    height:100%
 }
 footer{
     text-align: center;
