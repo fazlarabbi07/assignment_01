@@ -185,3 +185,47 @@ footer{
     padding:5px 50px;
     background-color: blue;
 }
+.email-section{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 60px 70px;
+    background-color: #FFF4D6;
+    border-radius: 10px;
+   
+}/*
+.email{
+    margin-left: 40px;
+    
+}
+#e{
+    padding: 5px 40px 5px 2px;
+    background-color: #D9D9D9;
+}
+#s{
+
+}*/
+.email-form{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    background-color: #D9D9D9;
+
+}
+.email{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D9D9D9;
+}
+#e{
+    padding: 5px;
+    
+}
+#s{
+    padding: 5px;
+    margin-left: 91px;
+    background-color: #FF5959;
+}
+
