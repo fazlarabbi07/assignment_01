@@ -155,3 +155,33 @@ footer{
     color: yellow;
     background: black;
 }
+.section-03{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-03 h1{
+    text-align: center;
+}
+#lorem{
+    text-align: center;
+}
+.section-03{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.e{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    border: 2px solid red;
+}
+
+.e #email{
+    text-align: left;
+    padding:5px 50px;
+    background-color: blue;
+}
