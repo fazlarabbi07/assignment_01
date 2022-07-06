@@ -221,11 +221,14 @@ footer{
 }
 #e{
     padding: 5px;
+    font-weight: 700;
     
 }
 #s{
     padding: 5px;
     margin-left: 91px;
+    color:white;
+    font-weight: 700;
     background-color: #FF5959;
 }
 
