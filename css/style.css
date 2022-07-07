@@ -152,8 +152,14 @@ h1{
 }
 footer{
     text-align: center;
-    color: yellow;
+    
     background: black;
+}
+.footer-title{
+    color: tomato;
+}
+.footer-tag{
+    color: white;
 }
 .section-03{
     width: 50%;
