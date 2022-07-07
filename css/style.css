@@ -244,22 +244,27 @@ footer{
     margin: 10px;
     padding: 20px;
     box-shadow: 5px 10px black;
+    
 }
 .mission{
     text-align: center;
 }
 .plan1 h1{
 font-size: 18px;
+
 }
 .plan1 img{
     width: 40px;
 }
 #plan1{
     border: 2px solid green;
+    background-color: aqua;
 }
 #plan2{
     border: 2px solid tomato;
+    background-color:burlywood;
 }
 #plan3{
     border: 2px solid blue;
+    background-color: aqua;
 }
