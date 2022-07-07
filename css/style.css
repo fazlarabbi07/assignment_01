@@ -177,55 +177,7 @@ footer{
     margin-left: auto;
     margin-right: auto;
     
-}/*
-.e{
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 50px;
-    border: 2px solid red;
 }
-
-.e #email{
-    text-align: left;
-    padding:5px 50px;
-    background-color: blue;
-}
-.email-section{
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 60px 70px;
-    background-color: #FFF4D6;
-    border-radius: 10px;
-   
-}
- .email-form{
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 20px;
-    background-color: #D9D9D9;
-
-}
-.email{
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #D9D9D9;
-}
-#e{
-    padding: 5px;
-    font-weight: 700;
-    
-}
-#s{
-    padding: 5px;
-    margin-left: 91px;
-    color:white;
-    font-weight: 700;
-    background-color: #FF5959;
-} */
 .our-plan{
     width: 50%;
     margin-left: auto;
@@ -266,22 +218,20 @@ font-size: 18px;
 .email-section{
  background-color: bisque; 
  padding: 50px 100px;
+ border-radius: 5px;
 
 }
 .form{
     display: flex;
     justify-content: center;
-    
-}
-.email-field{
-    width: 200px;
-    height: 20px;
-    margin-left: 0;
 }
 #email-id{
-    border-radius: 2px;
-    background-color: #D9D9D9;
+background-color:#D9D9D9 ;
+
+
 }
-#subscribe-field{
-   background-color: #FF5959;
+#subscribe-id{
+    background-color:#FF5959;
+    padding: 10px;
 }
+
